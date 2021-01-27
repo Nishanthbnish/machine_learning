@@ -1,0 +1,11 @@
+,opendoor,user,location,activity,vcommand,gesture
+0,yes,resident,fdoor,standing,open,tup
+1,no,kuser,adoor,walking,unlatch,tdown
+2,no,resident,ihouse,standing,hello,phorizontal
+3,no,resident,adoor,walking,hello,tup
+4,no,resident,ihouse,walking,unlatch,tdown
+5,yes,kuser,fdoor,pcallingbell,open,tup
+6,no,uuser,fdoor,standing,unlatch,tdown
+7,no,kuser,ihouse,standing,hello,tup
+8,no,uuser,fdoor,pcallingbell,unlatch,phorizontal
+9,yes,resident,fdoor,walking,open,phorizontal
