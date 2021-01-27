@@ -1,0 +1,10 @@
+resident,fdoor,standing,open,tup,yes
+kuser,adoor,walking,unlatch,tdown,no
+resident,ihouse,standing,hello,phorizontal,no
+resident,adoor,walking,hello,tup,no
+resident,ihouse,walking,unlatch,tdown,no
+kuser,fdoor,pcallingbell,open,tup,yes
+uuser,fdoor,standing,unlatch,tdown,no
+kuser,ihouse,standing,hello,tup,no
+uuser,fdoor,pcallingbell,unlatch,phorizontal,no
+resident,fdoor,walking,open,phorizontal,yes
